@@ -1,6 +1,6 @@
-# Whatsapp Sender
+# Whatsapp Automative Sender AR-EN
 
-Whatsapp Sender automates sending of messages via Whatsapp Web. The tool allows
+Whatsapp Automative Sender AR-EN automates sending of messages via Whatsapp Web. The tool allows
 you to send whatsapp messages in bulk. This program reads the list of contacts
 you provide and send a predefined message to each number in the list.
 
